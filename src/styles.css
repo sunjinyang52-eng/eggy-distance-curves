@@ -167,6 +167,17 @@ canvas {
   display: block;
 }
 
+.hover-point {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  pointer-events: none;
+  border: 2px solid #ffffff;
+  border-radius: 999px;
+  box-shadow: 0 0 0 2px rgba(32, 32, 32, 0.12);
+  transform: translate(-50%, -50%);
+}
+
 .tooltip {
   position: absolute;
   width: 138px;

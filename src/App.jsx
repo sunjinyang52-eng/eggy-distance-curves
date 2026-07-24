@@ -110,10 +110,10 @@ function drawSpeedText(ctx, text, x, y, color) {
 
 function drawMeterText(ctx, text, x, y, color) {
   ctx.save();
-  ctx.font = "700 14px 'Microsoft YaHei', 'PingFang SC', sans-serif";
-  ctx.textAlign = "right";
+  ctx.font = "600 12px 'Microsoft YaHei', 'PingFang SC', sans-serif";
+  ctx.textAlign = "left";
   ctx.textBaseline = "middle";
-  ctx.lineWidth = 5;
+  ctx.lineWidth = 4;
   ctx.strokeStyle = "rgba(255, 255, 255, 0.92)";
   ctx.strokeText(text, x, y);
   ctx.fillStyle = color;
@@ -200,7 +200,7 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
 
       const pad = {
         left: width < 760 ? 58 : 74,
-        right: 28,
+        right: width < 760 ? 72 : 78,
         top: 30,
         bottom: 64,
       };
@@ -246,6 +246,8 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
       ctx.strokeStyle = "#242424";
       ctx.lineWidth = 1.5;
       ctx.strokeRect(chart.x, chart.y, chart.w, chart.h);
+
+      let rightEdgeLabels = [];
 
       ctx.save();
       ctx.beginPath();
@@ -319,17 +321,17 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
         if (rightEdgePoints.length) {
           const lowest = rightEdgePoints.reduce((best, item) => (item.point.y < best.point.y ? item : best), rightEdgePoints[0]);
           const highest = rightEdgePoints.reduce((best, item) => (item.point.y > best.point.y ? item : best), rightEdgePoints[0]);
-          const labels = lowest === highest ? [lowest] : [lowest, highest];
-
-          labels.forEach((item) => {
-            const x = chart.x + chart.w - 10;
-            const y = Math.min(chart.y + chart.h - 12, Math.max(chart.y + 12, sy(item.point.y)));
-            drawMeterText(ctx, `${item.point.y.toFixed(1)}m`, x, y, COLORS[item.curve.label]);
-          });
+          rightEdgeLabels = lowest === highest ? [lowest] : [lowest, highest];
         }
       }
 
       ctx.restore();
+
+      rightEdgeLabels.forEach((item) => {
+        const x = chart.x + chart.w + 8;
+        const y = Math.min(chart.y + chart.h - 12, Math.max(chart.y + 12, sy(item.point.y)));
+        drawMeterText(ctx, `${item.point.y.toFixed(0)}m`, x, y, COLORS[item.curve.label]);
+      });
 
       ctx.save();
       ctx.font = "16px 'Microsoft YaHei', 'PingFang SC', sans-serif";
@@ -378,6 +380,8 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
     setTooltip({
       left: Math.min(rect.width - 150, Math.max(8, best.x + 12)),
       top: Math.min(rect.height - 74, Math.max(8, best.y - 56)),
+      pointLeft: best.x,
+      pointTop: best.y,
       label: best.curve.label,
       displayLabel: DISPLAY_LABELS[best.curve.label] ?? best.curve.label,
       time: best.point.x.toFixed(2),
@@ -390,10 +394,17 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
     <div className="chart-wrap" ref={wrapRef}>
       <canvas ref={canvasRef} onPointerMove={handlePointerMove} onPointerLeave={() => setTooltip(null)} />
       {tooltip ? (
-        <div className="tooltip" style={{ left: tooltip.left, top: tooltip.top, borderColor: tooltip.color }}>
-          <strong>{tooltip.displayLabel}</strong>
-          <span>{tooltip.time}s / {tooltip.distance}m</span>
-        </div>
+        <>
+          <span
+            className="hover-point"
+            style={{ left: tooltip.pointLeft, top: tooltip.pointTop, backgroundColor: tooltip.color }}
+            aria-hidden="true"
+          />
+          <div className="tooltip" style={{ left: tooltip.left, top: tooltip.top, borderColor: tooltip.color }}>
+            <strong>{tooltip.displayLabel}</strong>
+            <span>{tooltip.time}s / {tooltip.distance}m</span>
+          </div>
+        </>
       ) : null}
     </div>
   );
