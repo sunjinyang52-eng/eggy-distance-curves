@@ -24,7 +24,19 @@ const COLORS = {
   "内服0.3s": "#17becf",
   "内服0.4s": "#e377c2",
   "内服0.5s": "#8c564b",
-  "内服0.6s": "#5a5a5a",
+  "内服0.6s": "#111827",
+};
+
+const DISPLAY_LABELS = {
+  蹭墙踩头: "蹭墙踩头",
+  "外服0.4s": "外服0.4",
+  "外服0.5s": "外服0.5",
+  "外服0.6s": "外服0.6",
+  "外服0.0s": "外服0s",
+  "内服0.3s": "内服0.3s",
+  "内服0.4s": "内服0.4s",
+  "内服0.5s": "内服0.5s",
+  "内服0.6s": "内服0.6s",
 };
 
 const LABEL_AT = {
@@ -332,6 +344,7 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
       left: Math.min(rect.width - 150, Math.max(8, best.x + 12)),
       top: Math.min(rect.height - 74, Math.max(8, best.y - 56)),
       label: best.curve.label,
+      displayLabel: DISPLAY_LABELS[best.curve.label] ?? best.curve.label,
       time: best.point.x.toFixed(2),
       distance: best.point.y.toFixed(2),
       color: COLORS[best.curve.label],
@@ -343,7 +356,7 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
       <canvas ref={canvasRef} onPointerMove={handlePointerMove} onPointerLeave={() => setTooltip(null)} />
       {tooltip ? (
         <div className="tooltip" style={{ left: tooltip.left, top: tooltip.top, borderColor: tooltip.color }}>
-          <strong>{tooltip.label}</strong>
+          <strong>{tooltip.displayLabel}</strong>
           <span>{tooltip.time}s / {tooltip.distance}m</span>
         </div>
       ) : null}
@@ -388,7 +401,7 @@ export function App() {
             <span>{selectedCount} / {SERIES_ORDER.length}</span>
             <label className="switch">
               <input type="checkbox" checked={showExtension} onChange={(event) => setShowExtension(event.target.checked)} />
-              <span>外推</span>
+              <span>延伸</span>
             </label>
           </div>
           <div className="legend-list">
@@ -402,7 +415,7 @@ export function App() {
                     onChange={(event) => setVisible((current) => ({ ...current, [label]: event.target.checked }))}
                   />
                   <span className="swatch" style={{ backgroundColor: COLORS[label] }} />
-                  <span className="series-name">{label.replace("外服", "")}</span>
+                  <span className="series-name">{DISPLAY_LABELS[label] ?? label}</span>
                   <span className="speed">{meta ? `${meta.speed.toFixed(2)}/s` : ""}</span>
                 </label>
               );
