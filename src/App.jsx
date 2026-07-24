@@ -114,8 +114,8 @@ function useChartData() {
   useEffect(() => {
     let active = true;
     Promise.all([
-      fetch("/data/curves_with_extension.csv").then((res) => res.text()),
-      fetch("/data/summary.csv").then((res) => res.text()),
+      fetch("data/curves_with_extension.csv").then((res) => res.text()),
+      fetch("data/summary.csv").then((res) => res.text()),
     ])
       .then(([curvesCsv, summaryCsv]) => {
         if (!active) return;
