@@ -376,7 +376,7 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
       ctx.fillText("时间（秒）", chart.x + chart.w / 2, height - 24);
       ctx.translate(22, chart.y + chart.h / 2);
       ctx.rotate(-Math.PI / 2);
-      ctx.fillText("距离（m）", 0, 0);
+      ctx.fillText("距离（米）", 0, 0);
       ctx.restore();
 
       canvas._chartLayout = { chart, sx, sy };
@@ -481,10 +481,20 @@ export function App() {
         <aside className="controls" aria-label="曲线控制">
           <div className="control-head">
             <span>{selectedCount} / {SERIES_ORDER.length}</span>
-            <label className="switch">
-              <input type="checkbox" checked={showExtension} onChange={(event) => setShowExtension(event.target.checked)} />
-              <span>延伸</span>
-            </label>
+            <div className="control-actions">
+              <button
+                type="button"
+                className="clear-button"
+                disabled={selectedCount === 0}
+                onClick={() => setVisible(Object.fromEntries(SERIES_ORDER.map((label) => [label, false])))}
+              >
+                取消全选
+              </button>
+              <label className="switch">
+                <input type="checkbox" checked={showExtension} onChange={(event) => setShowExtension(event.target.checked)} />
+                <span>延伸</span>
+              </label>
+            </div>
           </div>
           <div className="legend-list">
             {SERIES_ORDER.map((label) => {
