@@ -498,10 +498,12 @@ export function App() {
               <button
                 type="button"
                 className="clear-button"
-                disabled={selectedCount === 0}
-                onClick={() => setVisible(Object.fromEntries(SERIES_ORDER.map((label) => [label, false])))}
+                onClick={() => {
+                  const nextValue = selectedCount === 0;
+                  setVisible(Object.fromEntries(SERIES_ORDER.map((label) => [label, nextValue])));
+                }}
               >
-                取消全选
+                {selectedCount === 0 ? "全选" : "取消"}
               </button>
               <label className="switch">
                 <input type="checkbox" checked={showExtension} onChange={(event) => setShowExtension(event.target.checked)} />

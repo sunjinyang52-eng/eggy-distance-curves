@@ -103,18 +103,20 @@ h1 {
 .control-actions {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
 }
 
 .clear-button {
-  min-height: 26px;
-  padding: 3px 9px;
+  min-height: 22px;
+  padding: 2px 7px;
   border: 1px solid #d5ddd8;
   border-radius: 6px;
   background: #ffffff;
   color: #53605a;
   cursor: pointer;
-  font: inherit;
+  font-family: inherit;
+  font-size: 12px;
+  line-height: 1.2;
 }
 
 .clear-button:hover:not(:disabled) {
