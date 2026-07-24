@@ -1,0 +1,10 @@
+﻿曲线,服务器,持续时长_s,实测距离_m,平均速度_m_s,外推规则,外推速度_m_s,来源
+蹭墙踩头,外服,3.974,57.396,14.444,8m/s,8.000,D:\Codex\video-editing\1920e8e0435cdd6f1df6beafb7e118be_timeaxis_final_3151-3387\_qa\timeaxis_ocr_values.csv
+外服0.4s,外服,10.367,138.238,13.335,8m/s,8.000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
+外服0.5s,外服,11.367,111.608,9.819,自身均速,9.819,C:\Users\金阳\Documents\我的POPO\eggy_0.5s_0.6s.zip -> 0.5s/measurements.csv
+外服0.6s,外服,12.067,114.168,9.461,自身均速,9.461,C:\Users\金阳\Documents\我的POPO\eggy_0.5s_0.6s.zip -> 0.6s/measurements.csv
+外服0.0s,外服,12.550,266.458,21.232,不外推,,D:\Codex\video-editing\foreign_0_0_speed_curve\outputs\外服0.0s_距离曲线_源数据.csv
+内服0.3s,内服,6.750,99.459,14.735,8m/s,8.000,C:\Users\金阳\Documents\我的POPO\新0.3_0.4.zip -> 新0.3/measurements.csv
+内服0.4s,内服,9.000,110.108,12.234,8m/s,8.000,C:\Users\金阳\Documents\我的POPO\新0.3_0.4.zip -> 新0.4/measurements.csv
+内服0.5s,内服,11.550,113.758,9.849,自身均速,9.849,D:\Codex\video-editing\new_0_5_speed_distance\outputs\019f8e88-3e4a-7ef0-91b1-ae50a871ef5a\新0.5.xlsx -> 数据
+内服0.6s,内服,12.867,120.408,9.358,自身均速,9.358,D:\Codex\video-editing\new_0_6s_frames_123_895\outputs\019f8ec1-f4a5-7490-9fd1-54223c813e68\新0.6s_123-895_速度距离表.xlsx -> 数据
