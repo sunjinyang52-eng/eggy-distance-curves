@@ -97,6 +97,23 @@ function nearestPoint(points, targetX) {
   return points.reduce((best, point) => (Math.abs(point.x - targetX) < Math.abs(best.x - targetX) ? point : best), points[0]);
 }
 
+function crossingAtY(points, targetY) {
+  for (let index = 1; index < points.length; index += 1) {
+    const prev = points[index - 1];
+    const current = points[index];
+    if ((prev.y < targetY && current.y >= targetY) || (prev.y > targetY && current.y <= targetY)) {
+      const span = current.y - prev.y;
+      if (span === 0) return current;
+      const ratio = (targetY - prev.y) / span;
+      return {
+        x: prev.x + (current.x - prev.x) * ratio,
+        y: targetY,
+      };
+    }
+  }
+  return null;
+}
+
 function drawSpeedText(ctx, text, x, y, color) {
   ctx.save();
   ctx.font = "700 14px 'Microsoft YaHei', 'PingFang SC', sans-serif";
@@ -113,6 +130,19 @@ function drawMeterText(ctx, text, x, y, color) {
   ctx.font = "600 12px 'Microsoft YaHei', 'PingFang SC', sans-serif";
   ctx.textAlign = "left";
   ctx.textBaseline = "middle";
+  ctx.lineWidth = 4;
+  ctx.strokeStyle = "rgba(255, 255, 255, 0.92)";
+  ctx.strokeText(text, x, y);
+  ctx.fillStyle = color;
+  ctx.fillText(text, x, y);
+  ctx.restore();
+}
+
+function drawTopMeterText(ctx, text, x, y, color) {
+  ctx.save();
+  ctx.font = "600 12px 'Microsoft YaHei', 'PingFang SC', sans-serif";
+  ctx.textAlign = "center";
+  ctx.textBaseline = "bottom";
   ctx.lineWidth = 4;
   ctx.strokeStyle = "rgba(255, 255, 255, 0.92)";
   ctx.strokeText(text, x, y);
@@ -333,6 +363,12 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
         drawMeterText(ctx, `${item.point.y.toFixed(0)}m`, x, y, COLORS[item.curve.label]);
       });
 
+      const outerZero = activeCurves.find((curve) => curve.label === "外服0.0s");
+      const topTouch = outerZero ? crossingAtY(outerZero.measured, MAX_Y) : null;
+      if (topTouch) {
+        drawTopMeterText(ctx, "200m", sx(topTouch.x), chart.y - 6, COLORS["外服0.0s"]);
+      }
+
       ctx.save();
       ctx.font = "16px 'Microsoft YaHei', 'PingFang SC', sans-serif";
       ctx.fillStyle = "#202020";
@@ -340,7 +376,7 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
       ctx.fillText("时间（秒）", chart.x + chart.w / 2, height - 24);
       ctx.translate(22, chart.y + chart.h / 2);
       ctx.rotate(-Math.PI / 2);
-      ctx.fillText("距离", 0, 0);
+      ctx.fillText("距离（m）", 0, 0);
       ctx.restore();
 
       canvas._chartLayout = { chart, sx, sy };
