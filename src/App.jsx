@@ -108,6 +108,19 @@ function drawSpeedText(ctx, text, x, y, color) {
   ctx.restore();
 }
 
+function drawMeterText(ctx, text, x, y, color) {
+  ctx.save();
+  ctx.font = "700 14px 'Microsoft YaHei', 'PingFang SC', sans-serif";
+  ctx.textAlign = "right";
+  ctx.textBaseline = "middle";
+  ctx.lineWidth = 5;
+  ctx.strokeStyle = "rgba(255, 255, 255, 0.92)";
+  ctx.strokeText(text, x, y);
+  ctx.fillStyle = color;
+  ctx.fillText(text, x, y);
+  ctx.restore();
+}
+
 function useChartData() {
   const [state, setState] = useState({ loading: true, curves: [], summary: new Map(), error: "" });
 
@@ -293,6 +306,28 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
         const py = Math.min(chart.y + chart.h - 10, Math.max(chart.y + 18, sy(point.y + anchor.yOffset)));
         drawSpeedText(ctx, `${meta.speed.toFixed(2)}/s`, px, py, COLORS[curve.label]);
       });
+
+      if (showExtension) {
+        const rightEdgePoints = activeCurves
+          .map((curve) => {
+            const visiblePoints = curve.extension.length ? curve.extension : curve.measured;
+            const point = visiblePoints[visiblePoints.length - 1];
+            return point ? { curve, point } : null;
+          })
+          .filter((item) => item && Math.abs(item.point.x - MAX_X) < 0.01 && item.point.y < MAX_Y - 0.01);
+
+        if (rightEdgePoints.length) {
+          const lowest = rightEdgePoints.reduce((best, item) => (item.point.y < best.point.y ? item : best), rightEdgePoints[0]);
+          const highest = rightEdgePoints.reduce((best, item) => (item.point.y > best.point.y ? item : best), rightEdgePoints[0]);
+          const labels = lowest === highest ? [lowest] : [lowest, highest];
+
+          labels.forEach((item) => {
+            const x = chart.x + chart.w - 10;
+            const y = Math.min(chart.y + chart.h - 12, Math.max(chart.y + 12, sy(item.point.y)));
+            drawMeterText(ctx, `${item.point.y.toFixed(1)}m`, x, y, COLORS[item.curve.label]);
+          });
+        }
+      }
 
       ctx.restore();
 
