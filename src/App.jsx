@@ -39,6 +39,13 @@ const DISPLAY_LABELS = {
   "内服0.6s": "内服0.6s",
 };
 
+const COMPARE_GROUPS = {
+  "0.3s对比": ["外服0.0s", "内服0.3s"],
+  "0.4s对比": ["外服0.4s", "内服0.4s"],
+  "0.5s对比": ["外服0.5s", "内服0.5s"],
+  "0.6s对比": ["外服0.6s", "内服0.6s"],
+};
+
 const LABEL_AT = {
   蹭墙踩头: { x: 3.55, yOffset: 5 },
   "外服0.4s": { x: 9.75, yOffset: 4 },
@@ -458,6 +465,9 @@ export function App() {
       setVisible(Object.fromEntries(SERIES_ORDER.map((label) => [label, !label.startsWith("内服")])));
     } else if (group === "inner") {
       setVisible(Object.fromEntries(SERIES_ORDER.map((label) => [label, label.startsWith("内服")])));
+    } else if (COMPARE_GROUPS[group]) {
+      const groupSet = new Set(COMPARE_GROUPS[group]);
+      setVisible(Object.fromEntries(SERIES_ORDER.map((label) => [label, groupSet.has(label)])));
     }
   };
 
@@ -474,6 +484,9 @@ export function App() {
           <button type="button" onClick={() => setGroup("all")}>全部</button>
           <button type="button" onClick={() => setGroup("outer")}>外服</button>
           <button type="button" onClick={() => setGroup("inner")}>内服</button>
+          {Object.keys(COMPARE_GROUPS).map((group) => (
+            <button type="button" key={group} onClick={() => setGroup(group)}>{group}</button>
+          ))}
         </div>
       </header>
 
