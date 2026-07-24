@@ -29,9 +29,9 @@ const COLORS = {
 
 const DISPLAY_LABELS = {
   蹭墙踩头: "蹭墙踩头",
-  "外服0.4s": "外服0.4",
-  "外服0.5s": "外服0.5",
-  "外服0.6s": "外服0.6",
+  "外服0.4s": "外服0.4s",
+  "外服0.5s": "外服0.5s",
+  "外服0.6s": "外服0.6s",
   "外服0.0s": "外服0.3s",
   "内服0.3s": "内服0.3s",
   "内服0.4s": "内服0.4s",
@@ -503,7 +503,7 @@ export function App() {
                   setVisible(Object.fromEntries(SERIES_ORDER.map((label) => [label, nextValue])));
                 }}
               >
-                {selectedCount === 0 ? "全选" : "取消"}
+                {selectedCount === 0 ? "全选" : "取消全选"}
               </button>
               <label className="switch">
                 <input type="checkbox" checked={showExtension} onChange={(event) => setShowExtension(event.target.checked)} />

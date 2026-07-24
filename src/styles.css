@@ -108,14 +108,14 @@ h1 {
 
 .clear-button {
   min-height: 22px;
-  padding: 2px 7px;
+  padding: 2px 6px;
   border: 1px solid #d5ddd8;
   border-radius: 6px;
   background: #ffffff;
   color: #53605a;
   cursor: pointer;
   font-family: inherit;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1.2;
 }
 
