@@ -5,10 +5,10 @@ const MAX_Y = 200;
 
 const SERIES_ORDER = [
   "蹭墙踩头",
+  "外服0.0s",
   "外服0.4s",
   "外服0.5s",
   "外服0.6s",
-  "外服0.0s",
   "内服0.3s",
   "内服0.4s",
   "内服0.5s",
@@ -384,8 +384,8 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
       pointTop: best.y,
       label: best.curve.label,
       displayLabel: DISPLAY_LABELS[best.curve.label] ?? best.curve.label,
-      time: best.point.x.toFixed(2),
       distance: best.point.y.toFixed(2),
+      speed: summary.get(best.curve.label)?.speed.toFixed(2) ?? "",
       color: COLORS[best.curve.label],
     });
   };
@@ -402,7 +402,7 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
           />
           <div className="tooltip" style={{ left: tooltip.left, top: tooltip.top, borderColor: tooltip.color }}>
             <strong>{tooltip.displayLabel}</strong>
-            <span>{tooltip.time}s / {tooltip.distance}m</span>
+            <span>{tooltip.distance}m / {tooltip.speed}/s</span>
           </div>
         </>
       ) : null}
