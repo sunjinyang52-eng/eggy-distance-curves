@@ -24,7 +24,7 @@ const COLORS = {
   "内服0.3s": "#17becf",
   "内服0.4s": "#e377c2",
   "内服0.5s": "#8c564b",
-  "内服0.6s": "#d97706",
+  "内服0.6s": "#eab308",
 };
 
 const DISPLAY_LABELS = {
