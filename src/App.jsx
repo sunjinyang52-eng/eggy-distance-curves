@@ -48,7 +48,7 @@ const COMPARE_GROUPS = {
 
 const LABEL_AT = {
   蹭墙踩头: { x: 3.55, yOffset: 5 },
-  "外服0.4s": { x: 9.75, yOffset: 4 },
+  "外服0.4s": { x: 14.2, yOffset: 4 },
   "外服0.5s": { x: 10.45, yOffset: 5 },
   "外服0.6s": { x: 10.8, yOffset: -4 },
   "外服0.0s": { x: 8.2, yOffset: 8 },
@@ -57,6 +57,17 @@ const LABEL_AT = {
   "内服0.5s": { x: 8.75, yOffset: -8 },
   "内服0.6s": { x: 12.0, yOffset: 8 },
 };
+
+const CAP_SPEED_LABELS = new Set(["外服0.4s"]);
+
+function displaySpeedForCurve(curve, meta) {
+  if (!meta) return null;
+  if (CAP_SPEED_LABELS.has(curve.label)) {
+    const topTouch = crossingAtY(curve.measured, MAX_Y);
+    if (topTouch?.x) return MAX_Y / topTouch.x;
+  }
+  return meta.speed;
+}
 
 function parseCsv(text) {
   const rows = [];
@@ -248,7 +259,7 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
         h: height - pad.top - pad.bottom,
       };
       const sx = (x) => chart.x + (x / MAX_X) * chart.w;
-      const sy = (y) => chart.y + (1 - y / MAX_Y) * chart.h;
+      const sy = (y) => chart.y + (1 - Math.min(y, MAX_Y) / MAX_Y) * chart.h;
 
       ctx.fillStyle = "#ffffff";
       ctx.fillRect(0, 0, width, height);
@@ -340,10 +351,12 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
         const anchor = LABEL_AT[curve.label];
         const meta = summary.get(curve.label);
         if (!anchor || !meta || !curve.measured.length) return;
+        const speed = displaySpeedForCurve(curve, meta);
+        if (!speed) return;
         const point = nearestPoint(curve.measured, anchor.x);
         const px = Math.min(chart.x + chart.w - 62, Math.max(chart.x + 8, sx(point.x) + 6));
         const py = Math.min(chart.y + chart.h - 10, Math.max(chart.y + 18, sy(point.y + anchor.yOffset)));
-        drawSpeedText(ctx, `${meta.speed.toFixed(2)}/s`, px, py, COLORS[curve.label]);
+        drawSpeedText(ctx, `${speed.toFixed(2)}/s`, px, py, COLORS[curve.label]);
       });
 
       if (showExtension) {
@@ -373,7 +386,7 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
       const outerZero = activeCurves.find((curve) => curve.label === "外服0.0s");
       const topTouch = outerZero ? crossingAtY(outerZero.measured, MAX_Y) : null;
       if (topTouch) {
-        drawTopMeterText(ctx, "200m", sx(topTouch.x), chart.y - 6, COLORS["外服0.0s"]);
+        drawTopMeterText(ctx, `${MAX_Y}m`, sx(topTouch.x), chart.y - 6, COLORS["外服0.0s"]);
       }
 
       ctx.save();
@@ -514,6 +527,8 @@ export function App() {
           <div className="legend-list">
             {SERIES_ORDER.map((label) => {
               const meta = summary.get(label);
+              const curve = curves.find((item) => item.label === label);
+              const speed = curve && meta ? displaySpeedForCurve(curve, meta) : null;
               return (
                 <label className="series-toggle" key={label}>
                   <input
@@ -523,7 +538,7 @@ export function App() {
                   />
                   <span className="swatch" style={{ backgroundColor: COLORS[label] }} />
                   <span className="series-name">{DISPLAY_LABELS[label] ?? label}</span>
-                  <span className="speed">{meta ? `${meta.speed.toFixed(2)}/s` : ""}</span>
+                  <span className="speed">{speed ? `${speed.toFixed(2)}/s` : ""}</span>
                 </label>
               );
             })}

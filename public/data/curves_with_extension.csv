@@ -1,4 +1,4 @@
-﻿曲线,服务器,类型,序号,时间_s,距离_m,来源
+曲线,服务器,类型,序号,时间_s,距离_m,来源
 蹭墙踩头,外服,实测,0,0.000000,0.000000,D:\Codex\video-editing\1920e8e0435cdd6f1df6beafb7e118be_timeaxis_final_3151-3387\_qa\timeaxis_ocr_values.csv
 蹭墙踩头,外服,实测,1,0.016838,0.269000,D:\Codex\video-editing\1920e8e0435cdd6f1df6beafb7e118be_timeaxis_final_3151-3387\_qa\timeaxis_ocr_values.csv
 蹭墙踩头,外服,实测,2,0.033675,0.269000,D:\Codex\video-editing\1920e8e0435cdd6f1df6beafb7e118be_timeaxis_final_3151-3387\_qa\timeaxis_ocr_values.csv
@@ -281,648 +281,1044 @@
 蹭墙踩头,外服,外推,42,14.498803,141.597096,D:\Codex\video-editing\1920e8e0435cdd6f1df6beafb7e118be_timeaxis_final_3151-3387\_qa\timeaxis_ocr_values.csv
 蹭墙踩头,外服,外推,43,14.749402,143.601884,D:\Codex\video-editing\1920e8e0435cdd6f1df6beafb7e118be_timeaxis_final_3151-3387\_qa\timeaxis_ocr_values.csv
 蹭墙踩头,外服,外推,44,15.000000,145.606672,D:\Codex\video-editing\1920e8e0435cdd6f1df6beafb7e118be_timeaxis_final_3151-3387\_qa\timeaxis_ocr_values.csv
-外服0.4s,外服,实测,0,0.000000,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,1,0.016667,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,2,0.033333,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,3,0.050000,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,4,0.066667,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,5,0.083333,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,6,0.100000,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,7,0.116667,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,8,0.133333,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,9,0.150000,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,10,0.166667,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,11,0.183333,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,12,0.200000,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,13,0.216667,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,14,0.233333,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,15,0.250000,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,16,0.266667,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,17,0.283333,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,18,0.300000,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,19,0.316667,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,20,0.333333,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,21,0.350000,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,22,0.366667,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,23,0.383333,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,24,0.400000,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,25,0.416667,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,26,0.433333,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,27,0.450000,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,28,0.466667,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,29,0.483333,0.000000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,30,0.500000,0.124600,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,31,0.516667,0.124600,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,32,0.533333,0.391200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,33,0.550000,0.391200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,34,0.566667,0.657700,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,35,0.583333,0.657700,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,36,0.600000,0.924300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,37,0.616667,0.924300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,38,0.633333,1.191000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,39,0.650000,1.191000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,40,0.666667,1.457600,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,41,0.683333,1.457600,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,42,0.700000,1.724200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,43,0.716667,1.724200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,44,0.733333,1.990900,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,45,0.750000,1.990900,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,46,0.766667,2.790800,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,47,0.783333,2.790800,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,48,0.800000,3.057400,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,49,0.816667,3.057400,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,50,0.833333,3.324100,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,51,0.850000,3.324100,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,52,0.866667,3.590700,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,53,0.883333,3.590700,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,54,0.900000,4.081800,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,55,0.916667,4.081800,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,56,0.933333,4.564000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,57,0.950000,4.564000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,58,0.966667,5.037300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,59,0.983333,5.037300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,60,1.000000,5.501800,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,61,1.016667,5.501800,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,62,1.033333,5.927300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,63,1.050000,5.927300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,64,1.066667,6.314000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,65,1.083333,6.314000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,66,1.100000,6.661800,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,67,1.116667,6.661800,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,68,1.133333,6.970600,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,69,1.150000,6.970600,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,70,1.166667,8.711200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,71,1.183333,8.711200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,72,1.200000,8.898200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,73,1.216667,8.898200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,74,1.233333,9.068200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,75,1.250000,9.068200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,76,1.266667,9.179200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,77,1.283333,9.179200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,78,1.300000,9.223200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,79,1.316667,9.223200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,80,1.333333,9.217200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,81,1.350000,9.217200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,82,1.366667,9.194200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,83,1.383333,9.194200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,84,1.400000,9.175200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,85,1.416667,9.175200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,86,1.433333,9.215200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,87,1.450000,9.215200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,88,1.466667,9.325200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,89,1.483333,9.325200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,90,1.500000,9.465200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,91,1.516667,9.465200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,92,1.533333,9.636300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,93,1.550000,9.636300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,94,1.566667,9.833200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,95,1.583333,9.833200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,96,1.600000,10.048200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,97,1.616667,10.048200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,98,1.633333,10.277200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,99,1.650000,10.277200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,100,1.666667,11.447200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,101,1.683333,11.885200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,102,1.700000,11.885200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,103,1.716667,12.320200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,104,1.733333,12.320200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,105,1.750000,12.750200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,106,1.766667,12.750200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,107,1.783333,13.175200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,108,1.800000,13.175200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,109,1.816667,13.597200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,110,1.833333,13.597200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,111,1.850000,14.013200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,112,1.866667,14.013200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,113,1.883333,14.425200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,114,1.900000,14.425200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,115,1.916667,14.800200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,116,1.933333,14.800200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,117,1.950000,15.170200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,118,1.966667,15.170200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,119,1.983333,15.535200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,120,2.000000,15.535200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,121,2.016667,15.897200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,122,2.033333,15.897200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,123,2.050000,16.253200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,124,2.066667,16.253200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,125,2.083333,16.605200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,126,2.100000,16.605200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,127,2.116667,16.953200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,128,2.133333,16.953200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,129,2.150000,17.297200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,130,2.166667,17.297200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,131,2.183333,17.635200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,132,2.200000,17.635200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,133,2.216667,17.970200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,134,2.233333,17.970200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,135,2.250000,18.300200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,136,2.266667,18.300200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,137,2.283333,18.625200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,138,2.300000,18.625200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,139,2.316667,18.947200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,140,2.333333,18.947200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,141,2.350000,19.263200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,142,2.366667,19.263200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,143,2.383333,19.575200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,144,2.400000,19.575200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,145,2.416667,19.883200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,146,2.433333,19.883200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,147,2.450000,20.187200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,148,2.466667,20.187200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,149,2.483333,20.445200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,150,2.500000,20.445200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,151,2.516667,20.660200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,152,2.533333,20.660200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,153,2.550000,20.930200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,154,2.566667,20.930200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,155,2.583333,21.919200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,156,2.600000,21.919200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,157,2.616667,22.173200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,158,2.633333,22.173200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,159,2.650000,22.437200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,160,2.666667,22.437200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,161,2.683333,22.709200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,162,2.700000,22.709200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,163,2.716667,22.990200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,164,2.733333,22.990200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,165,2.750000,23.267200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,166,2.766667,23.267200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,167,2.783333,23.539200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,168,2.800000,23.539200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,169,2.816667,23.807200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,170,2.833333,23.807200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,171,2.850000,24.073200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,172,2.866667,24.073200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,173,2.883333,24.340200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,174,2.900000,24.340200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,175,2.916667,24.607200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,176,2.933333,24.607200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,177,2.950000,24.873200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,178,2.966667,24.873200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,179,2.983333,25.140200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,180,3.000000,25.140200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,181,3.016667,25.407200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,182,3.033333,25.407200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,183,3.050000,25.673200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,184,3.066667,25.673200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,185,3.083333,25.940200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,186,3.100000,25.940200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,187,3.116667,26.431200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,188,3.133333,26.431200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,189,3.150000,26.913200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,190,3.166667,26.913200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,191,3.183333,27.387200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,192,3.200000,27.387200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,193,3.216667,27.851200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,194,3.233333,27.851200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,195,3.250000,28.310200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,196,3.266667,28.310200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,197,3.283333,28.763200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,198,3.300000,28.763200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,199,3.316667,29.211200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,200,3.333333,29.211200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,201,3.350000,29.653200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,202,3.366667,29.653200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,203,3.383333,31.389200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,204,3.400000,31.389200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,205,3.416667,31.697200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,206,3.433333,31.697200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,207,3.450000,32.108200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,208,3.466667,32.108200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,209,3.483333,32.553200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,210,3.500000,33.743300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,211,3.516667,33.743300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,212,3.533333,34.021200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,213,3.550000,34.021200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,214,3.566667,34.286200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,215,3.583333,34.286200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,216,3.600000,34.563200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,217,3.616667,34.563200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,218,3.633333,34.840200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,219,3.650000,34.840200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,220,3.666667,35.107200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,221,3.683333,35.107200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,222,3.700000,35.366200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,223,3.716667,35.366200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,224,3.733333,35.627200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,225,3.750000,35.627200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,226,3.766667,35.896200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,227,3.783333,35.896200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,228,3.800000,36.198300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,229,3.816667,36.198300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,230,3.833333,36.705200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,231,3.850000,36.705200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,232,3.866667,37.209200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,233,3.883333,37.209200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,234,3.900000,37.708300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,235,3.916667,37.708300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,236,3.933333,38.202200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,237,3.950000,38.202200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,238,3.966667,38.692200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,239,3.983333,38.692200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,240,4.000000,39.178300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,241,4.016667,39.178300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,242,4.033333,39.659200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,243,4.050000,39.659200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,244,4.066667,40.135200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,245,4.083333,40.135200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,246,4.100000,40.608300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,247,4.116667,40.608300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,248,4.133333,41.042200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,249,4.150000,41.042200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,250,4.166667,41.472200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,251,4.183333,41.472200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,252,4.200000,41.898300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,253,4.216667,41.898300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,254,4.233333,42.319200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,255,4.250000,42.319200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,256,4.266667,42.735200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,257,4.283333,42.735200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,258,4.300000,43.148300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,259,4.316667,43.148300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,260,4.333333,43.555200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,261,4.350000,43.555200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,262,4.366667,43.959200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,263,4.383333,43.959200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,264,4.400000,44.358300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,265,4.416667,45.528300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,266,4.433333,45.528300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,267,4.450000,45.909200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,268,4.466667,45.909200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,269,4.483333,46.285200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,270,4.500000,46.285200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,271,4.516667,46.658300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,272,4.533333,46.658300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,273,4.550000,47.025200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,274,4.566667,47.025200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,275,4.583333,47.389200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,276,4.600000,47.389200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,277,4.616667,47.708300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,278,4.633333,47.708300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,279,4.650000,47.982200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,280,4.666667,47.982200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,281,4.683333,48.312200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,282,4.700000,48.312200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,283,4.716667,48.631200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,284,4.733333,48.631200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,285,4.750000,48.939200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,286,4.766667,48.939200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,287,4.783333,49.235200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,288,4.800000,49.235200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,289,4.816667,49.541200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,290,4.833333,49.541200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,291,4.850000,49.855200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,292,4.866667,49.855200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,293,4.883333,50.179200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,294,4.900000,50.179200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,295,4.916667,50.511200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,296,4.933333,50.511200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,297,4.950000,50.852200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,298,4.966667,50.852200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,299,4.983333,51.189200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,300,5.000000,51.189200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,301,5.016667,51.521200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,302,5.033333,51.521200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,303,5.050000,51.849200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,304,5.066667,51.849200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,305,5.083333,52.172200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,306,5.100000,52.172200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,307,5.116667,52.491200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,308,5.133333,52.491200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,309,5.150000,52.805200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,310,5.166667,52.805200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,311,5.183333,53.115200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,312,5.200000,53.115200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,313,5.216667,53.421200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,314,5.233333,53.421200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,315,5.250000,53.722200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,316,5.266667,53.722200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,317,5.283333,54.019200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,318,5.300000,54.019200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,319,5.316667,55.309200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,320,5.333333,55.782200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,321,5.350000,55.782200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,322,5.366667,56.247200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,323,5.383333,56.247200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,324,5.400000,56.705200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,325,5.416667,56.705200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,326,5.433333,57.159200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,327,5.450000,57.159200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,328,5.466667,57.607200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,329,5.483333,57.607200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,330,5.500000,59.980200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,331,5.516667,59.980200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,332,5.533333,60.343300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,333,5.550000,60.343300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,334,5.566667,60.827200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,335,5.583333,60.827200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,336,5.600000,61.352200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,337,5.616667,61.352200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,338,5.633333,61.867200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,339,5.650000,61.867200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,340,5.666667,62.350200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,341,5.683333,62.350200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,342,5.700000,62.788300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,343,5.716667,62.788300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,344,5.733333,63.173300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,345,5.750000,63.173300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,346,5.766667,63.550300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,347,5.783333,63.550300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,348,5.800000,63.936200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,349,5.816667,63.936200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,350,5.833333,64.321200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,351,5.850000,64.321200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,352,5.866667,64.694300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,353,5.883333,64.694300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,354,5.900000,65.057200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,355,5.916667,65.057200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,356,5.933333,65.422200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,357,5.950000,65.422200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,358,5.966667,65.795200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,359,5.983333,65.795200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,360,6.000000,66.180200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,361,6.016667,66.180200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,362,6.033333,66.593200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,363,6.050000,66.593200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,364,6.066667,67.203200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,365,6.083333,67.203200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,366,6.100000,67.809200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,367,6.116667,67.809200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,368,6.133333,68.410200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,369,6.150000,68.410200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,370,6.166667,69.006200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,371,6.183333,69.006200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,372,6.200000,69.599200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,373,6.216667,69.599200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,374,6.233333,71.923200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,375,6.250000,71.923200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,376,6.266667,72.460200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,377,6.283333,72.460200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,378,6.300000,72.992200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,379,6.316667,72.992200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,380,6.333333,73.520200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,381,6.350000,73.520200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,382,6.366667,74.043200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,383,6.383333,74.043200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,384,6.400000,74.562200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,385,6.416667,74.562200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,386,6.433333,75.076200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,387,6.450000,75.076200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,388,6.466667,75.586200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,389,6.483333,75.586200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,390,6.500000,76.092200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,391,6.516667,76.092200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,392,6.533333,76.593200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,393,6.550000,76.593200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,394,6.566667,77.090200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,395,6.583333,77.090200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,396,6.600000,77.582200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,397,6.616667,77.582200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,398,6.633333,78.070200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,399,6.650000,78.070200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,400,6.666667,78.553200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,401,6.683333,78.553200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,402,6.700000,79.032200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,403,6.716667,79.032200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,404,6.733333,79.506200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,405,6.750000,79.506200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,406,6.766667,79.936200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,407,6.783333,79.936200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,408,6.800000,80.322200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,409,6.816667,80.322200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,410,6.833333,80.663200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,411,6.850000,80.663200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,412,6.866667,80.960200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,413,6.883333,80.960200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,414,6.900000,81.312200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,415,6.916667,81.312200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,416,6.933333,81.653200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,417,6.950000,81.653200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,418,6.966667,81.983200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,419,6.983333,81.983200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,420,7.000000,82.302200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,421,7.016667,82.302200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,422,7.033333,82.630200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,423,7.050000,82.630200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,424,7.066667,82.966200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,425,7.083333,82.966200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,426,7.100000,83.312200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,427,7.116667,83.312200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,428,7.133333,83.666200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,429,7.150000,84.743200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,430,7.166667,84.743200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,431,7.183333,85.093200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,432,7.200000,85.093200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,433,7.216667,85.439200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,434,7.233333,85.439200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,435,7.250000,85.780200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,436,7.266667,85.780200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,437,7.283333,86.116200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,438,7.300000,86.116200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,439,7.316667,86.449300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,440,7.333333,86.449300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,441,7.350000,86.776200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,442,7.366667,86.776200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,443,7.383333,87.100200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,444,7.400000,87.100200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,445,7.416667,87.419300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,446,7.433333,87.419300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,447,7.450000,87.733200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,448,7.466667,87.733200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,449,7.483333,88.043200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,450,7.500000,88.043200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,451,7.516667,88.569300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,452,7.533333,88.569300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,453,7.550000,89.076200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,454,7.566667,89.076200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,455,7.583333,89.566200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,456,7.600000,89.566200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,457,7.616667,90.039300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,458,7.633333,90.039300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,459,7.650000,90.494200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,460,7.666667,90.494200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,461,7.683333,90.942200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,462,7.700000,90.942200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,463,7.716667,91.384200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,464,7.733333,91.384200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,465,7.750000,94.100200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,466,7.766667,94.100200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,467,7.783333,94.488200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,468,7.800000,94.488200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,469,7.816667,95.008200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,470,7.833333,95.008200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,471,7.850000,95.572200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,472,7.866667,95.572200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,473,7.883333,96.143200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,474,7.900000,96.143200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,475,7.916667,96.639200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,476,7.933333,96.639200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,477,7.950000,97.041300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,478,7.966667,97.041300,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,479,7.983333,97.362200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,480,8.000000,97.362200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,481,8.016667,97.672200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,482,8.033333,97.672200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,483,8.050000,97.999200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,484,8.066667,98.958200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,485,8.083333,98.958200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,486,8.100000,99.278200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,487,8.116667,99.278200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,488,8.133333,99.608200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,489,8.150000,99.608200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,490,8.166667,99.968200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,491,8.183333,99.968200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,492,8.200000,100.578200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,493,8.216667,100.578200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,494,8.233333,101.188200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,495,8.250000,101.188200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,496,8.266667,101.818200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,497,8.283333,101.818200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,498,8.300000,102.458200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,499,8.316667,102.458200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,500,8.333333,103.098200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,501,8.350000,103.098200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,502,8.366667,103.758200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,503,8.383333,103.758200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,504,8.400000,104.418200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,505,8.416667,104.418200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,506,8.433333,105.088200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,507,8.450000,105.088200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,508,8.466667,105.778200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,509,8.483333,105.778200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,510,8.500000,106.468200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,511,8.516667,106.468200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,512,8.533333,107.158200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,513,8.550000,107.158200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,514,8.566667,107.868200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,515,8.583333,107.868200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,516,8.600000,108.588200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,517,8.616667,108.588200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,518,8.633333,109.308200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,519,8.650000,109.308200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,520,8.666667,110.048200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,521,8.683333,110.048200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,522,8.700000,110.788200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,523,8.716667,110.788200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,524,8.733333,111.538200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,525,8.750000,111.538200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,526,8.766667,112.298200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,527,8.783333,112.298200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,528,8.800000,113.048200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,529,8.816667,113.048200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,530,8.833333,113.788200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,531,8.850000,113.788200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,532,8.866667,114.538200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,533,8.883333,114.538200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,534,8.900000,115.268200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,535,8.916667,115.268200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,536,8.933333,115.998200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,537,8.950000,115.998200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,538,8.966667,116.728200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,539,8.983333,118.848200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,540,9.000000,118.848200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,541,9.016667,119.478200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,542,9.033333,119.478200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,543,9.050000,120.058200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,544,9.066667,120.058200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,545,9.083333,120.648200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,546,9.100000,120.648200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,547,9.116667,121.218200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,548,9.133333,121.218200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,549,9.150000,121.788200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,550,9.166667,121.788200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,551,9.183333,122.358200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,552,9.200000,122.358200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,553,9.216667,122.928200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,554,9.233333,122.928200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,555,9.250000,123.478200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,556,9.266667,123.478200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,557,9.283333,124.038200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,558,9.300000,124.038200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,559,9.316667,124.588200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,560,9.333333,124.588200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,561,9.350000,125.128200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,562,9.366667,125.128200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,563,9.383333,125.678200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,564,9.400000,125.678200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,565,9.416667,126.208200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,566,9.433333,126.208200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,567,9.450000,126.738200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,568,9.466667,126.738200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,569,9.483333,127.268200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,570,9.500000,127.268200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,571,9.516667,127.798200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,572,9.533333,127.798200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,573,9.550000,128.308200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,574,9.566667,128.308200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,575,9.583333,128.828200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,576,9.600000,128.828200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,577,9.616667,129.338200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,578,9.633333,129.338200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,579,9.650000,129.838200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,580,9.666667,129.838200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,581,9.683333,130.348200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,582,9.700000,130.348200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,583,9.716667,130.838200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,584,9.733333,130.838200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,585,9.750000,131.328200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,586,9.766667,131.328200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,587,9.783333,131.778200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,588,9.800000,131.778200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,589,9.816667,132.188200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,590,9.833333,132.188200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,591,9.850000,132.538200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,592,9.866667,132.538200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,593,9.883333,133.588200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,594,9.900000,133.938200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,595,9.916667,133.938200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,596,9.933333,134.268200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,597,9.950000,134.268200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,598,9.966667,134.598200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,599,9.983333,134.598200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,600,10.000000,134.928200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,601,10.016667,134.928200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,602,10.033333,135.258200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,603,10.050000,135.258200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,604,10.066667,135.568200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,605,10.083333,135.568200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,606,10.100000,135.888200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,607,10.116667,135.888200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,608,10.133333,136.198200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,609,10.150000,136.198200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,610,10.166667,136.498200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,611,10.183333,136.498200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,612,10.200000,136.808200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,613,10.216667,136.808200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,614,10.233333,137.098200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,615,10.250000,137.098200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,616,10.266667,137.388200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,617,10.283333,137.388200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,618,10.300000,137.678200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,619,10.316667,137.678200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,620,10.333333,137.968200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,621,10.350000,137.968200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,实测,622,10.366667,138.238200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,0,10.366667,138.238200,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,1,10.624074,140.297459,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,2,10.881481,142.356719,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,3,11.138889,144.415978,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,4,11.396296,146.475237,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,5,11.653704,148.534496,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,6,11.911111,150.593756,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,7,12.168519,152.653015,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,8,12.425926,154.712274,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,9,12.683333,156.771533,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,10,12.940741,158.830793,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,11,13.198148,160.890052,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,12,13.455556,162.949311,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,13,13.712963,165.008570,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,14,13.970370,167.067830,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,15,14.227778,169.127089,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,16,14.485185,171.186348,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,17,14.742593,173.245607,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
-外服0.4s,外服,外推,18,15.000000,175.304867,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
+外服0.4s,外服,实测,0,0.000000,0.000000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1,0.016700,0.000100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,2,0.033300,0.000100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,3,0.050000,0.000100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,4,0.066700,0.000100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,5,0.083300,0.000100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,6,0.100000,0.000100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,7,0.116700,0.000200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,8,0.133300,0.000200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,9,0.150000,0.000200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,10,0.166700,0.000200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,11,0.183300,0.000200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,12,0.200000,0.000200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,13,0.216700,0.000200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,14,0.233300,0.000200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,15,0.250000,0.000000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,16,0.266700,0.000000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,17,0.283300,0.000000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,18,0.300000,0.000000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,19,0.316700,0.177100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,20,0.333300,0.177100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,21,0.350000,0.536400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,22,0.366700,0.536400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,23,0.383300,0.829000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,24,0.400000,0.829000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,25,0.416700,1.035800,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,26,0.433300,1.035800,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,27,0.450000,1.233200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,28,0.466700,1.233200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,29,0.483300,1.418500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,30,0.500000,1.418500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,31,0.516700,1.588200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,32,0.533300,1.588200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,33,0.550000,1.740100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,34,0.566700,1.740100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,35,0.583300,1.875600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,36,0.600000,1.875600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,37,0.616700,1.985900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,38,0.633300,1.985900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,39,0.650000,2.079500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,40,0.666700,2.079500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,41,0.683300,2.155400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,42,0.700000,2.155400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,43,0.716700,2.215000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,44,0.733300,2.215000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,45,0.750000,2.260900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,46,0.766700,2.260900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,47,0.783300,2.296100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,48,0.800000,2.296100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,49,0.816700,2.324700,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,50,0.833300,2.324700,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,51,0.850000,2.351200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,52,0.866700,2.351200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,53,0.883300,2.381400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,54,0.900000,2.381400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,55,0.916700,2.427600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,56,0.933300,2.427600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,57,0.950000,2.494400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,58,0.966700,2.494400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,59,0.983300,2.585900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,60,1.000000,2.585900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,61,1.016700,2.706100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,62,1.033300,2.706100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,63,1.050000,2.858500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,64,1.066700,2.858500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,65,1.083300,3.046000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,66,1.100000,3.046000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,67,1.116700,3.326400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,68,1.133300,3.326400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,69,1.150000,3.819500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,70,1.166700,3.819500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,71,1.183300,4.302400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,72,1.200000,4.302400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,73,1.216700,4.775500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,74,1.233300,4.775500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,75,1.250000,5.239200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,76,1.266700,5.239200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,77,1.283300,5.663700,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,78,1.300000,5.663700,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,79,1.316700,6.049400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,80,1.333300,6.049400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,81,1.350000,6.396100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,82,1.366700,6.396100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,83,1.383300,6.704100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,84,1.400000,6.704100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,85,1.416700,8.761500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,86,1.433300,8.761500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,87,1.450000,8.943500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,88,1.466700,8.943500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,89,1.483300,9.110500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,90,1.500000,9.110500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,91,1.516700,9.219500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,92,1.533300,9.219500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,93,1.550000,9.263600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,94,1.566700,9.263600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,95,1.583300,9.258500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,96,1.600000,9.258500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,97,1.616700,9.237600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,98,1.633300,9.237600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,99,1.650000,9.219500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,100,1.666700,9.219500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,101,1.683300,9.258500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,102,1.700000,9.258500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,103,1.716700,9.545500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,104,1.733300,9.545500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,105,1.750000,9.845500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,106,1.766700,9.845500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,107,1.783300,10.142500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,108,1.800000,10.142500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,109,1.816700,10.424500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,110,1.833300,10.424500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,111,1.850000,10.710500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,112,1.866700,10.710500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,113,1.883300,10.995900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,114,1.900000,10.995900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,115,1.916700,11.313900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,116,1.933300,11.313900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,117,1.950000,11.775900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,118,1.966700,11.775900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,119,1.983300,12.223900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,120,2.000000,12.223500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,121,2.016700,12.658500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,122,2.033300,12.658500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,123,2.050000,13.080500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,124,2.066700,13.080500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,125,2.083300,13.490500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,126,2.100000,13.490500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,127,2.116700,13.887500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,128,2.133300,13.887500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,129,2.150000,14.272500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,130,2.166700,14.272500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,131,2.183300,14.647500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,132,2.200000,14.647500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,133,2.216700,15.011500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,134,2.233300,15.011500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,135,2.250000,15.334500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,136,2.266700,15.334500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,137,2.283300,15.647500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,138,2.300000,15.647500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,139,2.316700,15.952500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,140,2.333300,15.952500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,141,2.350000,16.250500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,142,2.366700,16.250500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,143,2.383300,16.540500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,144,2.400000,16.540500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,145,2.416700,16.824500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,146,2.433300,16.824500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,147,2.450000,17.104500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,148,2.466700,17.104500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,149,2.483300,17.379500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,150,2.500000,17.379500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,151,2.516700,17.652500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,152,2.533300,17.652500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,153,2.550000,17.922500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,154,2.566700,17.922500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,155,2.583300,18.192500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,156,2.600000,18.192500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,157,2.616700,18.462500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,158,2.633300,18.462500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,159,2.650000,18.734500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,160,2.666700,18.734500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,161,2.683300,19.008500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,162,2.700000,19.008500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,163,2.716700,19.287500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,164,2.733300,19.287500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,165,2.750000,19.571500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,166,2.766700,19.571500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,167,2.783300,19.878500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,168,2.800000,19.878500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,169,2.816700,20.138500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,170,2.833300,20.138500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,171,2.850000,20.353500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,172,2.866700,20.495300,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,173,2.883300,20.637000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,174,2.900000,20.778700,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,175,2.916700,20.920500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,176,2.933300,20.920500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,177,2.950000,21.088100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,178,2.966700,21.255700,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,179,2.983300,21.423300,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,180,3.000000,21.590900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,181,3.016700,21.758500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,182,3.033300,21.758500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,183,3.050000,22.039500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,184,3.066700,22.039500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,185,3.083300,22.325600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,186,3.100000,22.325600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,187,3.116700,22.615500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,188,3.133300,22.615500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,189,3.150000,22.910500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,190,3.166700,22.910500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,191,3.183300,23.195500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,192,3.200000,23.195500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,193,3.216700,23.471500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,194,3.233300,23.471500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,195,3.250000,23.737500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,196,3.266700,23.737500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,197,3.283300,23.997500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,198,3.300000,23.997500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,199,3.316700,24.252500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,200,3.333300,24.252500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,201,3.350000,24.503500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,202,3.366700,24.503500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,203,3.383300,24.750500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,204,3.400000,24.750500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,205,3.416700,24.994500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,206,3.433300,24.994500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,207,3.450000,25.235500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,208,3.466700,25.235500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,209,3.483300,25.475500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,210,3.500000,25.475500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,211,3.516700,25.716500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,212,3.533300,25.716500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,213,3.550000,26.212500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,214,3.566700,26.212500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,215,3.583300,26.697500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,216,3.600000,26.697500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,217,3.616700,27.171500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,218,3.633300,27.171500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,219,3.650000,27.633500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,220,3.666700,27.633500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,221,3.683300,28.085500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,222,3.700000,28.085500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,223,3.716700,28.528500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,224,3.733300,28.528500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,225,3.750000,28.962500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,226,3.766700,28.962500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,227,3.783300,29.388500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,228,3.800000,29.388500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,229,3.816700,31.344500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,230,3.833300,31.344500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,231,3.850000,31.600400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,232,3.866700,31.599900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,233,3.883300,31.960900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,234,3.900000,31.960900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,235,3.916700,32.359900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,236,3.933300,32.359900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,237,3.950000,32.755900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,238,3.966700,32.755900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,239,3.983300,33.165800,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,240,4.000000,33.165800,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,241,4.016700,33.515800,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,242,4.033300,33.515800,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,243,4.050000,33.795800,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,244,4.066700,33.795800,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,245,4.083300,34.061500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,246,4.100000,34.061500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,247,4.116700,34.394500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,248,4.133300,34.394500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,249,4.150000,34.723500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,250,4.166700,34.723500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,251,4.183300,35.033500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,252,4.200000,35.033500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,253,4.216700,35.280600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,254,4.233300,35.322500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,255,4.250000,35.609500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,256,4.266700,35.609500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,257,4.283300,35.901500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,258,4.300000,35.901500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,259,4.316700,36.221500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,260,4.333300,36.221500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,261,4.350000,36.741500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,262,4.366700,36.741500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,263,4.383300,37.254500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,264,4.400000,37.254500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,265,4.416700,37.759500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,266,4.433300,37.759500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,267,4.450000,38.256500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,268,4.466700,38.256500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,269,4.483300,38.745500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,270,4.500000,38.745500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,271,4.516700,39.226500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,272,4.533300,39.226500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,273,4.550000,39.700600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,274,4.566700,39.700600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,275,4.583300,40.166600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,276,4.600000,40.166600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,277,4.616700,40.624500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,278,4.633300,40.624900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,279,4.650000,41.043600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,280,4.666700,41.043600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,281,4.683300,41.454900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,282,4.700000,41.454900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,283,4.716700,41.859900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,284,4.733300,41.859900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,285,4.750000,42.257900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,286,4.766700,42.257900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,287,4.783300,42.650900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,288,4.800000,42.650900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,289,4.816700,43.037900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,290,4.833300,43.037900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,291,4.850000,43.419900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,292,4.866700,43.419900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,293,4.883300,43.796900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,294,4.900000,43.796900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,295,4.916700,44.169900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,296,4.933300,44.169900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,297,4.950000,44.538900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,298,4.966700,44.538900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,299,4.983300,44.904900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,300,5.000000,44.904900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,301,5.016700,45.267600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,302,5.033300,45.267600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,303,5.050000,45.628500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,304,5.066700,45.628500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,305,5.083300,45.987500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,306,5.100000,45.987500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,307,5.116700,46.345500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,308,5.133300,46.345500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,309,5.150000,46.704500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,310,5.166700,46.704500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,311,5.183300,47.069500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,312,5.200000,47.069500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,313,5.216700,47.388500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,314,5.233300,47.388500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,315,5.250000,47.663500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,316,5.266700,47.663500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,317,5.283300,47.994500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,318,5.300000,47.994500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,319,5.316700,48.330500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,320,5.333300,48.330500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,321,5.350000,48.656500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,322,5.366700,48.656500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,323,5.383300,48.970500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,324,5.400000,48.970500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,325,5.416700,49.289500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,326,5.433300,49.289500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,327,5.450000,49.616500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,328,5.466700,49.616500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,329,5.483300,49.950500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,330,5.500000,49.950500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,331,5.516700,50.291500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,332,5.533300,50.291500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,333,5.550000,50.639500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,334,5.566700,50.639500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,335,5.583300,50.981500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,336,5.600000,50.981500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,337,5.616700,51.315500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,338,5.633300,51.315500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,339,5.650000,51.645700,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,340,5.666700,51.645700,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,341,5.683300,51.963500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,342,5.700000,51.963500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,343,5.716700,52.277500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,344,5.733300,52.277500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,345,5.750000,52.585500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,346,5.766700,52.585500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,347,5.783300,52.886600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,348,5.800000,52.886600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,349,5.816700,53.181500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,350,5.833300,53.181500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,351,5.850000,53.470500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,352,5.866700,53.470500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,353,5.883300,53.754500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,354,5.900000,53.754500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,355,5.916700,54.033500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,356,5.933300,54.033500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,357,5.950000,54.544500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,358,5.966700,54.544500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,359,5.983300,55.036500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,360,6.000000,55.036500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,361,6.016700,55.510500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,362,6.033300,55.510500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,363,6.050000,55.974500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,364,6.066700,55.974500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,365,6.083300,56.430500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,366,6.100000,56.430500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,367,6.116700,56.878500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,368,6.133300,56.878500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,369,6.150000,57.319500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,370,6.166700,57.319500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,371,6.183300,57.753500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,372,6.200000,57.753500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,373,6.216700,60.231500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,374,6.233300,60.231500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,375,6.250000,60.562500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,376,6.266700,60.562500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,377,6.283300,61.016500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,378,6.300000,61.016500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,379,6.316700,61.511500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,380,6.333300,61.511500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,381,6.350000,61.999500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,382,6.366700,61.999500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,383,6.383300,62.478600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,384,6.400000,62.478600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,385,6.416700,62.892600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,386,6.433300,62.892600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,387,6.450000,63.232500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,388,6.466700,63.232500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,389,6.483300,63.559500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,390,6.500000,63.559500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,391,6.516700,63.925500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,392,6.533300,63.925500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,393,6.550000,64.291500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,394,6.566700,64.291500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,395,6.583300,64.641500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,396,6.600000,64.641500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,397,6.616700,64.977500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,398,6.633300,64.977500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,399,6.650000,65.313900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,400,6.666700,65.313900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,401,6.683300,65.656900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,402,6.700000,65.656900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,403,6.716700,66.028900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,404,6.733300,66.028500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,405,6.750000,66.604500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,406,6.766700,66.604500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,407,6.783300,67.174500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,408,6.800000,67.174500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,409,6.816700,67.737500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,410,6.833300,67.737500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,411,6.850000,68.294600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,412,6.866700,68.294600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,413,6.883300,68.844500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,414,6.900000,68.844500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,415,6.916700,69.388500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,416,6.933300,69.388500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,417,6.950000,69.926600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,418,6.966700,69.926600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,419,6.983300,70.457500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,420,7.000000,70.457500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,421,7.016700,70.982500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,422,7.033300,70.982500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,423,7.050000,71.468500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,424,7.066700,71.468500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,425,7.083300,71.948500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,426,7.100000,71.948500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,427,7.116700,72.422500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,428,7.133300,72.422500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,429,7.150000,72.890500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,430,7.166700,72.890500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,431,7.183300,73.353500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,432,7.200000,73.353500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,433,7.216700,73.811500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,434,7.233300,73.811500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,435,7.250000,74.263500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,436,7.266700,74.263500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,437,7.283300,74.711500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,438,7.300000,74.711500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,439,7.316700,75.155500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,440,7.333300,75.155500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,441,7.350000,75.594500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,442,7.366700,75.594500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,443,7.383300,76.030500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,444,7.400000,76.030500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,445,7.416700,76.462500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,446,7.433300,76.462500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,447,7.450000,76.891500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,448,7.466700,76.891500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,449,7.483300,77.318600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,450,7.500000,77.318600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,451,7.516700,77.742600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,452,7.533300,77.742600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,453,7.550000,78.164600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,454,7.566700,78.164600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,455,7.583300,78.588500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,456,7.600000,78.588500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,457,7.616700,78.967500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,458,7.633300,78.967500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,459,7.650000,79.302500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,460,7.666700,79.302500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,461,7.683300,79.693600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,462,7.700000,79.693600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,463,7.716700,80.082500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,464,7.733300,80.082500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,465,7.750000,80.461500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,466,7.766700,80.461500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,467,7.783300,80.829500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,468,7.800000,80.829500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,469,7.816700,81.202500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,470,7.833300,81.202500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,471,7.850000,81.584500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,472,7.866700,81.584500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,473,7.883300,81.975500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,474,7.900000,81.975500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,475,7.916700,82.373500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,476,7.933300,82.373500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,477,7.950000,82.778500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,478,7.966700,82.778500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,479,7.983300,83.178500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,480,8.000000,83.178500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,481,8.016700,83.571500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,482,8.033300,83.571500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,483,8.050000,83.959900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,484,8.066700,83.960300,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,485,8.083300,84.341600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,486,8.100000,84.341600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,487,8.116700,84.717900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,488,8.133300,84.712100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,489,8.150000,85.086100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,490,8.166700,85.086100,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,491,8.183300,85.455500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,492,8.200000,85.455500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,493,8.216700,85.806400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,494,8.233300,85.806400,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,495,8.250000,86.164500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,496,8.266700,86.164500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,497,8.283300,86.513500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,498,8.300000,86.513500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,499,8.316700,86.857500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,500,8.333300,86.857500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,501,8.350000,87.427500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,502,8.366700,87.427500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,503,8.383300,87.976200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,504,8.400000,87.976200,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,505,8.416700,88.511500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,506,8.433300,88.511500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,507,8.450000,89.025500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,508,8.466700,89.025500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,509,8.483300,89.479500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,510,8.500000,89.479500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,511,8.516700,89.920500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,512,8.533300,89.920500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,513,8.550000,90.349500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,514,8.566700,90.349500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,515,8.583300,90.766500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,516,8.600000,90.766500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,517,8.616700,93.520500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,518,8.633300,93.520500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,519,8.650000,93.911500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,520,8.666700,93.911500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,521,8.683300,94.442500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,522,8.700000,94.442500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,523,8.716700,95.020500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,524,8.733300,95.020500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,525,8.750000,95.590500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,526,8.766700,95.590500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,527,8.783300,96.139600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,528,8.800000,96.139600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,529,8.816700,96.617500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,530,8.833300,96.617500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,531,8.850000,97.018500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,532,8.866700,97.018500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,533,8.883300,97.403500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,534,8.900000,97.403500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,535,8.916700,97.819500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,536,8.933300,97.819500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,537,8.950000,98.231500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,538,8.966700,98.231500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,539,8.983300,98.631500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,540,9.000000,98.631500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,541,9.016700,99.021500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,542,9.033300,99.021500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,543,9.050000,99.411500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,544,9.066700,99.415500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,545,9.083300,99.815500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,546,9.100000,99.815500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,547,9.116700,100.245500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,548,9.133300,100.245500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,549,9.150000,100.871500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,550,9.166700,100.871500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,551,9.183300,101.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,552,9.200000,101.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,553,9.216700,102.121500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,554,9.233300,102.121500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,555,9.250000,102.741500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,556,9.266700,102.741500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,557,9.283300,103.351500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,558,9.300000,103.351500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,559,9.316700,103.951500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,560,9.333300,103.951500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,561,9.350000,104.551500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,562,9.366700,104.551500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,563,9.383300,105.152500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,564,9.400000,105.152500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,565,9.416700,105.731500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,566,9.433300,105.731500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,567,9.450000,106.281500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,568,9.466700,106.281500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,569,9.483300,106.832500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,570,9.500000,106.832500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,571,9.516700,107.361500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,572,9.533300,107.361500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,573,9.550000,107.902500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,574,9.566700,107.902500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,575,9.583300,108.421500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,576,9.600000,108.421500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,577,9.616700,108.952500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,578,9.633300,108.952500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,579,9.650000,109.461500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,580,9.666700,109.461500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,581,9.683300,109.981500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,582,9.700000,109.981500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,583,9.716700,110.491500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,584,9.733300,110.491500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,585,9.750000,110.991500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,586,9.766700,110.991500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,587,9.783300,111.491500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,588,9.800000,111.491500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,589,9.816700,111.992500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,590,9.833300,111.992500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,591,9.850000,112.481500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,592,9.866700,112.481500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,593,9.883300,112.971500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,594,9.900000,112.971500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,595,9.916700,113.461500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,596,9.933300,113.461500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,597,9.950000,113.941500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,598,9.966700,113.941500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,599,9.983300,114.421500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,600,10.000000,114.421500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,601,10.016700,114.861500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,602,10.033300,114.861500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,603,10.050000,115.261500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,604,10.066700,115.261500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,605,10.083300,115.711500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,606,10.100000,115.711500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,607,10.116700,116.151500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,608,10.133300,116.151500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,609,10.150000,116.591500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,610,10.166700,116.591500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,611,10.183300,117.011500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,612,10.200000,117.011500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,613,10.216700,117.441500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,614,10.233300,117.441500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,615,10.250000,117.881500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,616,10.266700,117.881500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,617,10.283300,118.331500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,618,10.300000,118.331500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,619,10.316700,118.791500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,620,10.333300,118.791500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,621,10.350000,119.251500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,622,10.366700,119.251500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,623,10.383300,119.711500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,624,10.400000,119.711500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,625,10.416700,120.175500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,626,10.433300,120.172500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,627,10.450000,120.612500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,628,10.466700,120.579500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,629,10.483300,121.074500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,630,10.500000,121.074500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,631,10.516700,121.477500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,632,10.533300,121.491500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,633,10.550000,121.880500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,634,10.566700,121.880500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,635,10.583300,122.351500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,636,10.600000,122.351500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,637,10.616700,122.771500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,638,10.633300,122.771500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,639,10.650000,123.192500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,640,10.666700,123.192500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,641,10.683300,123.601500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,642,10.700000,123.601500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,643,10.716700,124.001500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,644,10.733300,124.001500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,645,10.750000,124.631500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,646,10.766700,124.631500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,647,10.783300,125.241500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,648,10.800000,125.241500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,649,10.816700,125.841500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,650,10.833300,125.841500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,651,10.850000,126.411500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,652,10.866700,126.411500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,653,10.883300,126.871500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,654,10.900000,126.871500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,655,10.916700,127.311500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,656,10.933300,127.311500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,657,10.950000,127.741500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,658,10.966700,127.741500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,659,10.983300,128.161500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,660,11.000000,128.161500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,661,11.016700,131.151500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,662,11.033300,131.151500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,663,11.050000,131.601500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,664,11.066700,131.601500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,665,11.083300,132.201500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,666,11.100000,132.201500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,667,11.116700,132.861500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,668,11.133300,132.861500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,669,11.150000,133.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,670,11.166700,133.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,671,11.183300,134.121500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,672,11.200000,134.121500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,673,11.216700,134.671500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,674,11.233300,134.671500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,675,11.250000,135.131500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,676,11.266700,135.131500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,677,11.283300,135.571500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,678,11.300000,135.571500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,679,11.316700,136.041500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,680,11.333300,136.041500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,681,11.350000,136.511500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,682,11.366700,136.511500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,683,11.383300,136.971500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,684,11.400000,136.971500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,685,11.416700,137.415500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,686,11.433300,137.415500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,687,11.450000,137.865500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,688,11.466700,137.865500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,689,11.483300,138.325500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,690,11.500000,138.321500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,691,11.516700,138.811500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,692,11.533300,138.811500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,693,11.550000,139.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,694,11.566700,139.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,695,11.583300,140.181500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,696,11.600000,140.181500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,697,11.616700,140.871500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,698,11.633300,140.871500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,699,11.650000,141.541500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,700,11.666700,141.541500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,701,11.683300,142.211500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,702,11.700000,142.211500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,703,11.716700,142.881500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,704,11.733300,142.881500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,705,11.750000,143.541500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,706,11.766700,143.541500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,707,11.783300,144.191500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,708,11.800000,144.191500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,709,11.816700,144.841500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,710,11.833300,144.841500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,711,11.850000,145.451500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,712,11.866700,145.451500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,713,11.883300,146.062500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,714,11.900000,146.062500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,715,11.916700,146.661500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,716,11.933300,146.661500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,717,11.950000,147.255500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,718,11.966700,147.255500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,719,11.983300,147.841500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,720,12.000000,147.845500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,721,12.016700,148.435500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,722,12.033300,148.435500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,723,12.050000,149.012900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,724,12.066700,149.012900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,725,12.083300,149.585500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,726,12.100000,149.585500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,727,12.116700,150.155500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,728,12.133300,150.155500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,729,12.150000,150.725500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,730,12.166700,150.725500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,731,12.183300,151.285500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,732,12.200000,151.285500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,733,12.216700,151.845500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,734,12.233300,151.845500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,735,12.250000,152.402900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,736,12.266700,152.402900,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,737,12.283300,152.951500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,738,12.300000,152.951500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,739,12.316700,153.502500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,740,12.333300,153.502500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,741,12.350000,154.041500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,742,12.366700,154.041500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,743,12.383300,154.581500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,744,12.400000,154.581500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,745,12.416700,155.081500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,746,12.433300,155.081500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,747,12.450000,155.541500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,748,12.466700,155.541500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,749,12.483300,156.051500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,750,12.500000,156.051500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,751,12.516700,156.551500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,752,12.533300,156.551500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,753,12.550000,157.052500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,754,12.566700,157.052500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,755,12.583300,157.531500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,756,12.600000,157.531500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,757,12.616700,158.021500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,758,12.633300,158.021500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,759,12.650000,158.521500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,760,12.666700,158.521500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,761,12.683300,159.021500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,762,12.700000,159.021500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,763,12.716700,159.572500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,764,12.733300,159.572500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,765,12.750000,160.061500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,766,12.766700,160.061500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,767,12.783300,160.581500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,768,12.800000,160.581500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,769,12.816700,161.091500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,770,12.833300,161.091500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,771,12.850000,161.601500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,772,12.866700,161.601500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,773,12.883300,162.101500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,774,12.900000,162.101500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,775,12.916700,162.601500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,776,12.933300,162.601500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,777,12.950000,163.091500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,778,12.966700,163.091500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,779,12.983300,163.581500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,780,13.000000,163.581500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,781,13.016700,164.061500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,782,13.033300,164.061500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,783,13.050000,164.541500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,784,13.066700,164.541500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,785,13.083300,165.011500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,786,13.100000,165.011500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,787,13.116700,165.481500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,788,13.133300,165.481500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,789,13.150000,166.171500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,790,13.166700,166.171500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,791,13.183300,166.841500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,792,13.200000,166.841500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,793,13.216700,167.491500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,794,13.233300,167.491500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,795,13.250000,168.131500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,796,13.266700,168.131500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,797,13.283300,168.581500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,798,13.300000,168.581500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,799,13.316700,169.031500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,800,13.333300,169.031500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,801,13.350000,169.462500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,802,13.366700,169.462500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,803,13.383300,169.881500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,804,13.400000,169.881500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,805,13.416700,173.111500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,806,13.433300,173.115500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,807,13.450000,173.619500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,808,13.466700,173.615500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,809,13.483300,174.295500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,810,13.500000,174.295500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,811,13.516700,175.025500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,812,13.533300,174.980500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,813,13.550000,175.751500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,814,13.566700,175.751500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,815,13.583300,176.441500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,816,13.600000,176.441500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,817,13.616700,177.041500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,818,13.633300,177.041500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,819,13.650000,177.571500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,820,13.666700,177.571500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,821,13.683300,178.071500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,822,13.700000,178.071500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,823,13.716700,178.591500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,824,13.733300,178.591500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,825,13.750000,179.121500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,826,13.766700,179.121500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,827,13.783300,179.631500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,828,13.800000,179.631500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,829,13.816700,180.141500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,830,13.833300,180.141500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,831,13.850000,180.641500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,832,13.866700,180.641500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,833,13.883300,181.161500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,834,13.900000,181.161500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,835,13.916700,181.711500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,836,13.933300,181.711500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,837,13.950000,182.461500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,838,13.966700,182.461500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,839,13.983300,183.201500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,840,14.000000,183.205500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,841,14.016700,183.945500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,842,14.033300,183.945500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,843,14.050000,184.685500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,844,14.066700,184.685500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,845,14.083300,185.415500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,846,14.100000,185.415500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,847,14.116700,186.141500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,848,14.133300,186.141500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,849,14.150000,186.861500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,850,14.166700,186.861500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,851,14.183300,187.571500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,852,14.200000,187.571500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,853,14.216700,188.281500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,854,14.233300,188.281500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,855,14.250000,188.951500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,856,14.266700,188.951500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,857,14.283300,189.621500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,858,14.300000,189.621500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,859,14.316700,190.281500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,860,14.333300,190.281500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,861,14.350000,190.941500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,862,14.366700,190.941500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,863,14.383300,191.592500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,864,14.400000,191.592500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,865,14.416700,192.231500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,866,14.433300,192.231500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,867,14.450000,192.881500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,868,14.466700,192.881500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,869,14.483300,193.511500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,870,14.500000,193.511500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,871,14.516700,194.152500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,872,14.533300,194.152500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,873,14.550000,194.771500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,874,14.566700,194.771500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,875,14.583300,195.401500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,876,14.600000,195.401500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,877,14.616700,196.021500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,878,14.633300,196.021500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,879,14.650000,196.641500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,880,14.666700,196.641500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,881,14.683300,197.251500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,882,14.700000,197.251500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,883,14.716700,197.861500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,884,14.733300,197.861500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,885,14.750000,198.461500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,886,14.766700,198.461500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,887,14.783300,199.072500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,888,14.800000,199.072500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,889,14.816700,199.631500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,890,14.833300,199.631500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,891,14.850000,200.141500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,892,14.866700,200.141500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,893,14.883300,200.711500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,894,14.900000,200.711500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,895,14.916700,201.271500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,896,14.933300,201.271500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,897,14.950000,201.831500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,898,14.966700,201.831500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,899,14.983300,202.372500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,900,15.000000,202.372500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,901,15.016700,202.921500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,902,15.033300,202.921500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,903,15.050000,203.471500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,904,15.066700,203.471500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,905,15.083300,204.041500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,906,15.100000,204.041500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,907,15.116700,204.611500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,908,15.133300,204.611500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,909,15.150000,205.201500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,910,15.166700,205.201500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,911,15.183300,205.781500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,912,15.200000,205.781500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,913,15.216700,206.351500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,914,15.233300,206.351500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,915,15.250000,206.921500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,916,15.266700,206.925500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,917,15.283300,207.485500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,918,15.300000,207.485500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,919,15.316700,208.042600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,920,15.333300,208.042600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,921,15.350000,208.595500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,922,15.366700,208.595500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,923,15.383300,209.145600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,924,15.400000,209.145600,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,925,15.416700,209.676500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,926,15.433300,209.676500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,927,15.450000,210.180500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,928,15.466700,210.221500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,929,15.483300,210.751500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,930,15.500000,210.751500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,931,15.516700,211.276500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,932,15.533300,211.546500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,933,15.550000,212.031500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,934,15.566700,212.031500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,935,15.583300,212.761500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,936,15.600000,212.761500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,937,15.616700,213.471500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,938,15.633300,213.471500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,939,15.650000,214.172500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,940,15.666700,214.172500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,941,15.683300,214.621500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,942,15.700000,214.621500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,943,15.716700,215.061500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,944,15.733300,215.061500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,945,15.750000,215.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,946,15.766700,215.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,947,15.783300,215.921500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,948,15.800000,215.921500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,949,15.816700,216.321500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,950,15.833300,216.321500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,951,15.850000,216.721500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,952,15.866700,216.721500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,953,15.883300,217.111500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,954,15.900000,217.111500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,955,15.916700,217.491500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,956,15.933300,217.491500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,957,15.950000,217.791500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,958,15.966700,217.791500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,959,15.983300,218.011500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,960,16.000000,218.011500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,961,16.016700,218.161500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,962,16.033300,218.161500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,963,16.050000,218.271500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,964,16.066700,218.271500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,965,16.083300,218.352500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,966,16.100000,218.352500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,967,16.116700,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,968,16.133300,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,969,16.150000,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,970,16.166700,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,971,16.183300,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,972,16.200000,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,973,16.216700,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,974,16.233300,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,975,16.250000,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,976,16.266700,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,977,16.283300,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,978,16.300000,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,979,16.316700,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,980,16.333300,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,981,16.350000,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,982,16.366700,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,983,16.383300,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,984,16.400000,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,985,16.416700,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,986,16.433300,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,987,16.450000,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,988,16.466700,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,989,16.483300,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,990,16.500000,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,991,16.516700,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,992,16.533300,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,993,16.550000,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,994,16.566700,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,995,16.583300,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,996,16.600000,218.381500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,997,16.616700,218.481500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,998,16.633300,218.481500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,999,16.650000,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1000,16.666700,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1001,16.683300,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1002,16.700000,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1003,16.716700,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1004,16.733300,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1005,16.750000,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1006,16.766700,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1007,16.783300,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1008,16.800000,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1009,16.816700,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1010,16.833300,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1011,16.850000,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1012,16.866700,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1013,16.883300,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1014,16.900000,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1015,16.916700,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1016,16.933300,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1017,16.950000,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1018,16.966700,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1019,16.983300,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1020,17.000000,218.501500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1021,17.016700,218.601500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1022,17.033300,218.601500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1023,17.050000,218.741500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1024,17.066700,218.741500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1025,17.083300,218.901500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1026,17.100000,218.901500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1027,17.116700,219.112500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1028,17.133300,219.112500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1029,17.150000,219.341500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1030,17.166700,219.341500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1031,17.183300,219.621500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1032,17.200000,219.621500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1033,17.216700,219.891500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1034,17.233300,219.891500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1035,17.250000,220.151500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1036,17.266700,220.151500,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
+外服0.4s,外服,实测,1037,17.272800,220.250000,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
 外服0.5s,外服,实测,0,0.000000,0.000000,C:\Users\金阳\Documents\我的POPO\eggy_0.5s_0.6s.zip -> 0.5s/measurements.csv
 外服0.5s,外服,实测,1,0.016667,0.000000,C:\Users\金阳\Documents\我的POPO\eggy_0.5s_0.6s.zip -> 0.5s/measurements.csv
 外服0.5s,外服,实测,2,0.033333,0.000000,C:\Users\金阳\Documents\我的POPO\eggy_0.5s_0.6s.zip -> 0.5s/measurements.csv

@@ -1,6 +1,6 @@
-﻿曲线,服务器,持续时长_s,实测距离_m,平均速度_m_s,外推规则,外推速度_m_s,来源
+曲线,服务器,持续时长_s,实测距离_m,平均速度_m_s,外推规则,外推速度_m_s,来源
 蹭墙踩头,外服,3.974,57.396,14.444,8m/s,8.000,D:\Codex\video-editing\1920e8e0435cdd6f1df6beafb7e118be_timeaxis_final_3151-3387\_qa\timeaxis_ocr_values.csv
-外服0.4s,外服,10.367,138.238,13.335,8m/s,8.000,D:\Codex\video-editing\frame_527_1149_ocr\frame_0527_1149_speed_distance.csv
+外服0.4s,外服,17.273,220.250,12.751,不外推,,C:\Users\金阳\Desktop\0.4s外服.mp4 -> 距离表_从0到220.25
 外服0.5s,外服,11.367,111.608,9.819,自身均速,9.819,C:\Users\金阳\Documents\我的POPO\eggy_0.5s_0.6s.zip -> 0.5s/measurements.csv
 外服0.6s,外服,12.067,114.168,9.461,自身均速,9.461,C:\Users\金阳\Documents\我的POPO\eggy_0.5s_0.6s.zip -> 0.6s/measurements.csv
 外服0.0s,外服,12.550,266.458,21.232,不外推,,D:\Codex\video-editing\foreign_0_0_speed_curve\outputs\外服0.0s_距离曲线_源数据.csv
