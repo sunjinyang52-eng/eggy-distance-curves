@@ -59,6 +59,7 @@ const LABEL_AT = {
 };
 
 const CAP_SPEED_LABELS = new Set(["外服0.4s"]);
+const TOP_TOUCH_LABELS = new Set(["外服0.0s", "外服0.4s"]);
 
 function displaySpeedForCurve(curve, meta) {
   if (!meta) return null;
@@ -383,11 +384,21 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
         drawMeterText(ctx, `${item.point.y.toFixed(0)}m`, x, y, COLORS[item.curve.label]);
       });
 
-      const outerZero = activeCurves.find((curve) => curve.label === "外服0.0s");
-      const topTouch = outerZero ? crossingAtY(outerZero.measured, MAX_Y) : null;
-      if (topTouch) {
-        drawTopMeterText(ctx, `${MAX_Y}m`, sx(topTouch.x), chart.y - 6, COLORS["外服0.0s"]);
-      }
+      activeCurves.forEach((curve) => {
+        if (!TOP_TOUCH_LABELS.has(curve.label)) return;
+        const topTouch = crossingAtY(curve.measured, MAX_Y);
+        if (!topTouch) return;
+        ctx.save();
+        ctx.fillStyle = COLORS[curve.label];
+        ctx.strokeStyle = "#ffffff";
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+        ctx.arc(sx(topTouch.x), chart.y, 4.5, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.stroke();
+        ctx.restore();
+        drawTopMeterText(ctx, `${MAX_Y}m`, sx(topTouch.x), chart.y - 6, COLORS[curve.label]);
+      });
 
       ctx.save();
       ctx.font = "16px 'Microsoft YaHei', 'PingFang SC', sans-serif";
