@@ -185,6 +185,67 @@ h1 {
   padding: 18px;
 }
 
+.conclusion-panel {
+  max-width: 1480px;
+  margin: 18px auto 0;
+  padding: 22px 24px 24px;
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid #dde1dc;
+  border-radius: 8px;
+  box-shadow: 0 12px 34px rgba(36, 42, 38, 0.08);
+}
+
+.conclusion-panel h2 {
+  margin: 0 0 16px;
+  font-size: 22px;
+  line-height: 1.25;
+}
+
+.conclusion-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px 24px;
+}
+
+.conclusion-grid article {
+  min-width: 0;
+}
+
+.conclusion-grid article.wide {
+  grid-column: 1 / -1;
+}
+
+.conclusion-grid h3 {
+  margin: 0 0 8px;
+  padding-left: 10px;
+  border-left: 4px solid #4f7d5a;
+  color: #17221b;
+  font-size: 16px;
+  line-height: 1.35;
+}
+
+.conclusion-grid p,
+.conclusion-grid li {
+  color: #38433d;
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+.conclusion-grid p {
+  margin: 0 0 8px;
+}
+
+.conclusion-grid ol,
+.conclusion-grid ul {
+  margin: 0;
+  padding-left: 22px;
+}
+
+.conclusion-grid strong {
+  color: #101815;
+  font-weight: 700;
+}
+
 .chart-wrap {
   width: 100%;
   min-height: 520px;
@@ -264,5 +325,13 @@ canvas {
 
   .chart-panel {
     min-height: 520px;
+  }
+
+  .conclusion-panel {
+    padding: 18px;
+  }
+
+  .conclusion-grid {
+    grid-template-columns: 1fr;
   }
 }

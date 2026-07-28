@@ -477,6 +477,70 @@ function DistanceChart({ curves, summary, visible, showExtension }) {
   );
 }
 
+function ConclusionPanel() {
+  return (
+    <section className="conclusion-panel" aria-label="结论说明">
+      <h2>结论</h2>
+
+      <div className="conclusion-grid">
+        <article>
+          <h3>外服现状</h3>
+          <ol>
+            <li>
+              玩家正常进行<strong>蹭墙踩头跳</strong>，约在 4s 情况下移动至 57m 处，后续以 8m/s 的速度前进。
+            </li>
+            <li>
+              采用<strong>双抱连续丢扑</strong>的逻辑下，以底座玩家<strong>丢出后按扑的间隔</strong>为分组：
+              <ul>
+                <li>间隔为 0.3s 时，玩家可以连续抓扑 7 次，实际能在 11.8s 时到达 264m，落地后速度回到 8m/s。</li>
+                <li>间隔为 0.4s 时，玩家可以连续抓扑 12 次，实际能在 17.3s 时到达 240m，落地后速度回到 8m/s。</li>
+                <li>间隔为 0.5~0.6s 时，玩家可以无限抓扑，保持在约 9.8m/s 的速度；间隔为 0.7s 时会因为落地而无法反身抓举。</li>
+              </ul>
+            </li>
+          </ol>
+        </article>
+
+        <article>
+          <h3>操作流程</h3>
+          <p>
+            A 抓举 B → A 抓举 B 往前“移动” → A 抓举 B 往前“跳跃” → A 在空中将 B“丢出” → A 丢出后 B 立刻点“扑击”，
+            同时 B 转身回抓正在扑的玩家 A → 此时玩家 A 变成顶抱，B 变成底座 → 玩家 B 再往前丢出 A，重复以上操作。
+          </p>
+        </article>
+
+        <article>
+          <h3>实现原理</h3>
+          <ol>
+            <li>玩家在高速移动情况下点击扑，会有短暂速度上升，后续再回落到 14m/s；底座玩家凭借这段加速效果，与丢出的玩家短暂保持在抓举距离范围内。</li>
+            <li>被丢出的玩家快速转身抓举底座玩家，凭借特性让底座玩家瞬间加速到与被丢出的玩家速度一致，从而通过循环实现叠速。</li>
+          </ol>
+        </article>
+
+        <article>
+          <h3>修改逻辑</h3>
+          <p>
+            针对玩家高速状态下执行扑指令后的加速情况进行调整：玩家<strong>执行抓举（丢）指令后 0.6s 内再点击扑指令</strong>，
+            不会有短暂加速效果，而是直接速度下降到 14m/s。
+          </p>
+          <p>影响范围：目前外服正常操作下不会因为此调整受影响。</p>
+        </article>
+
+        <article className="wide">
+          <h3>修改结果</h3>
+          <p>
+            玩家在 4.5s 内（60m）情况下，<strong>正常蹭墙踩头跳始终快于双抱互抓情况</strong>，同时 0.3s 和 0.4s 的双抱距离存在有效限制。
+          </p>
+          <ol>
+            <li>间隔为 0.3s 时，玩家可以连续抓扑 3 次，实际能在 6.8s 时到达 99m，落地后速度回到 8m/s，与正常踩头跳差距 20m。</li>
+            <li>间隔为 0.4s 时，玩家可以连续抓扑 5 次，实际能在 9.0s 时到达 110m，落地后速度回到 8m/s，与正常踩头跳差距 13m。</li>
+            <li>间隔为 0.5~0.6s 时，玩家仍可以无限抓扑，保持在约 9.8m/s 的速度；间隔为 0.7s 时会因为落地而无法反身抓举。</li>
+          </ol>
+        </article>
+      </div>
+    </section>
+  );
+}
+
 export function App() {
   const { loading, curves, summary, error } = useChartData();
   const [visible, setVisible] = useState(() => Object.fromEntries(SERIES_ORDER.map((label) => [label, true])));
@@ -562,6 +626,8 @@ export function App() {
           {!loading && !error ? <DistanceChart curves={curves} summary={summary} visible={visible} showExtension={showExtension} /> : null}
         </section>
       </section>
+
+      <ConclusionPanel />
     </main>
   );
 }
